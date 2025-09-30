@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository demonstrates how to use Kotest in a Kotlin Multiplatform (KMP) project with Android
-and iOS targets. Unit tests and Kotest tests run on both platforms. On Android the run using a JUnit
-5 runner for Kotest and JUnit 4 for unit tests.
+This repository demonstrates how to use Kotest specs and unit tests in a Kotlin Multiplatform (KMP)
+project with Android and iOS targets. On Android, Kotest specs run using Kotest's JUnit 5 runner,
+while unit tests run using JUnit 4.
 
 ## Getting Started
 
