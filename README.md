@@ -1,7 +1,10 @@
-Run `./gradlew testDebugUnitTest iosSimulatorArm64Test"`
-or `./gradlew testDebugUnitTest iosSimulatorArm64Test --rerun-tasks --info | grep "kotest demo"` (to
-force-rerun tests and filter on the demo test standard output).
+Run
 
+```sh
+./gradlew testDebugUnitTest iosSimulatorArm64Test --rerun-tasks --info | grep "kotest demo"
+```
+
+to run tests and filter on the demo test standard output.
 You should see something like this:
 
 ```
