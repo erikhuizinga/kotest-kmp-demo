@@ -6,4 +6,6 @@ plugins {
     alias(libs.plugins.composeMultiplatform) apply false
     alias(libs.plugins.composeCompiler) apply false
     alias(libs.plugins.kotlinMultiplatform) apply false
+    alias(libs.plugins.kotest) apply false
+    alias(libs.plugins.ksp) version "${libs.versions.kotlin.get()}-${libs.versions.ksp.get()}" apply false
 }

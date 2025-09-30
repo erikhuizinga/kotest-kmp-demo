@@ -7,6 +7,7 @@ class ComposeAppCommonTest {
 
     @Test
     fun example() {
+        println("ℹ️ kotest demo example unit test running on ${getPlatform().name}")
         assertEquals(3, 1 + 2)
     }
 }
