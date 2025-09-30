@@ -18,12 +18,18 @@ to run tests and filter on the demo test standard output.
 You should see something like this:
 
 ```
-    ℹ️ kotest demo example unit test running on Android 0
+    ℹ️ kotest demo example unit test 11 running on Android 0
+    ℹ️ kotest demo example unit test 12 running on Android 0
+    ℹ️ kotest demo example unit test 21 running on Android 0
+    ℹ️ kotest demo example unit test 22 running on Android 0
     ℹ️ kotest demo example fun spec test running on Android 0
     ℹ️ kotest demo example property test running on Android 0
     ℹ️ kotest demo example fun spec test running on iOS 26.0
     ℹ️ kotest demo example property test running on iOS 26.0
-    ℹ️ kotest demo example unit test running on iOS 26.0
+    ℹ️ kotest demo example unit test 11 running on iOS 26.0
+    ℹ️ kotest demo example unit test 12 running on iOS 26.0
+    ℹ️ kotest demo example unit test 21 running on iOS 26.0
+    ℹ️ kotest demo example unit test 22 running on iOS 26.0
 ```
 
 See the files in
