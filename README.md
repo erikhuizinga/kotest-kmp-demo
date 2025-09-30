@@ -26,5 +26,6 @@ You should see something like this:
     ℹ️ kotest demo example unit test running on iOS 26.0
 ```
 
-See the files in composeApp/src/commonTest/kotlin/com/example/kotest/kmp/demo for the source of this
-output.
+See the files in
+[composeApp/src/commonTest/kotlin/com/example/kotest/kmp/demo](https://github.com/erikhuizinga/kotest-kmp-demo/tree/main/composeApp/src/commonTest/kotlin/com/example/kotest/kmp/demo)
+for the source of this output.
